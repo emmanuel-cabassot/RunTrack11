@@ -1,0 +1,25 @@
+h1
+{
+	color:red;
+}
+h2
+{
+	color:yellow;
+}
+body 
+{
+	background-color: blueviolet;
+}
+strong
+{ text-align: center;
+  font-family: arial;
+  font-style: oblique;
+  color: #25FDE9;
+}
+p
+{
+	text-align: center ;
+	font-style: inherit ;
+	color: yellowgreen
+}
+            
