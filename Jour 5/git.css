@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(240, 241, 141);
+}
+
+
+td{
+    border: 1px solid lightblue;
+    background-color: lightgrey;
+}
+h2{
+    margin-bottom: 0;
+}
+h1{
+    margin-bottom: 0;
+    color: blue;
+}
+header{
+    background-image: src;
+}
