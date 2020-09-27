@@ -29,7 +29,6 @@ nav a{
     display: flex;
     flex-direction: column;
     background-color: #88c1d0;
-    height: 500px;
     width: 50%;
    
 }
